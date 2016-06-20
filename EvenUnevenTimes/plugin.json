@@ -1,0 +1,19 @@
+{
+  "name": "EvenUnevenTimes",
+  "version": "0.1.0",
+  "description": "Counts number of visits in even and uneven hours",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.16.2-b2"
+  },
+  "authors": [
+    {
+      "name": "Rafal Wisniewski",
+      "email": "rafaell_w@yahoo.com",
+      "homepage": ""
+    }
+  ],
+  "homepage": "",
+  "license": "GPL v3+",
+  "keywords": []
+}
